@@ -1,0 +1,13 @@
+D:\Personal\Documents\mGame\MGame\Temp\UnityVS_bin\Debug\Assembly-CSharp-Editor.dll
+D:\Personal\Documents\mGame\MGame\Temp\UnityVS_bin\Debug\Assembly-CSharp-Editor.pdb
+D:\Personal\Documents\mGame\MGame\Temp\UnityVS_bin\Debug\SyntaxTree.VisualStudio.Unity.Bridge.dll
+D:\Personal\Documents\mGame\MGame\Temp\UnityVS_bin\Debug\SyntaxTree.VisualStudio.Unity.Messaging.dll
+D:\Personal\Documents\mGame\MGame\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\Personal\Documents\mGame\MGame\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\Personal\Documents\mGame\MGame\Temp\UnityVS_bin\Debug\UnityVS.VersionSpecific.dll
+D:\Personal\Documents\mGame\MGame\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+D:\Personal\Documents\mGame\MGame\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\Personal\Documents\mGame\MGame\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\Personal\Documents\mGame\MGame\obj\Debug\UnityVS.MGame.CSharp.Editor.csprojResolveAssemblyReference.cache
+D:\Personal\Documents\mGame\MGame\obj\Debug\Assembly-CSharp-Editor.dll
+D:\Personal\Documents\mGame\MGame\obj\Debug\Assembly-CSharp-Editor.pdb
